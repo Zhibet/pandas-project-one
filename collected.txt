@@ -1,0 +1,5 @@
+'
+'3, ['California', 'Colorado', 'Connecticut']'
+'3, ['California', 'Colorado', 'Connecticut']'
+'7, ['California', 'Colorado', 'Connecticut', 'Alabama', 'Alaska', 'Arizona', 'Arkansas']'
+'8, ['California', 'Colorado', 'Connecticut', 'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'Delaware']
